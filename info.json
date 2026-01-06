@@ -1,12 +1,12 @@
 {
-    "name": "ar-assets-bobs",
+    "name": "reskins-assets-bobs",
     "version": "1.0.0",
-    "factorio_version": "1.1",
+    "factorio_version": "2.0",
     "title": "Artisanal Reskins: Bob's Assets",
     "author": "Kirazy",
     "contact": "https://discord.gg/qAvSyzZFPr",
+    "homepage": "https://github.com/kirazy/reskins-assets-bobs",
     "dependencies": [
-        "base",
-        "~ ar-assets-api"
+        "base"
     ]
 }
