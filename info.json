@@ -6,7 +6,8 @@
     "author": "Kirazy",
     "contact": "https://discord.gg/qAvSyzZFPr",
     "homepage": "https://github.com/kirazy/reskins-assets-bobs",
-    "dependencies": [
-        "base"
-    ]
+    "dependencies": [],
+    "package": {
+        "git_publish_branch": "main"
+    }
 }
