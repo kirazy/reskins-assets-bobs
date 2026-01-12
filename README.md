@@ -1,6 +1,6 @@
 # Artisanal Reskins: Bob's Assets
 
-TThis mod provides icons and sprites to support reskinning items, technologies, and entities from
+This mod provides icons and sprites to support reskinning items, technologies, and entities from
 Bob's Mods.
 
 ## What is this?
