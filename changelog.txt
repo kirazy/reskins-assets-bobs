@@ -1,7 +1,9 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: ????
-  Changes:
+  Features:
+    - Added aluminum material sprites and icons for pipes.
+    - Added brass bearings and bearing balls.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-01-11
