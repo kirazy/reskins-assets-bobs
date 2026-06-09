@@ -1,7 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: ????
-  Changes:
+  Bugfixes:
+    - Fixed that boiler-oil icons violated the naming pattern for multi-layer tintable sprites.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2026-06-07
