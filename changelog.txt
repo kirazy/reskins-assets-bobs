@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.2
+Version: 2.1.0
 Date: ????
+  Features:
+    - Updated for Factorio 2.1
   Bugfixes:
     - Fixed that boiler-oil icons violated the naming pattern for multi-layer tintable sprites.
 ---------------------------------------------------------------------------------------------------
