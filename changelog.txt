@@ -1,7 +1,9 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.1.1
 Date: ????
-  Changes:
+  Features:
+    - Added God module slot variations to `graphics/entity/beacon/module-slots/5-lights`
+    - Added God module item icons to `graphics/icons/modules`
 ---------------------------------------------------------------------------------------------------
 Version: 2.1.0
 Date: 2026-07-12
