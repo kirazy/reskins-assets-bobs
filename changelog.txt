@@ -1,18 +1,9 @@
 ---------------------------------------------------------------------------------------------------
-Version: 2.1.2
+Version: 1.0.2
 Date: ????
-  Changes:
----------------------------------------------------------------------------------------------------
-Version: 2.1.1
-Date: 2026-07-19
   Features:
     - Added God module slot variations to `graphics/entity/beacon/module-slots/5-lights`
     - Added God module item icons to `graphics/icons/modules`
----------------------------------------------------------------------------------------------------
-Version: 2.1.0
-Date: 2026-07-12
-  Features:
-    - Updated for Factorio 2.1
   Bugfixes:
     - Fixed that boiler-oil icons violated the naming pattern for multi-layer tintable sprites.
 ---------------------------------------------------------------------------------------------------
