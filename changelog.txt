@@ -8,6 +8,7 @@ Date: ????
     - Fixed that boiler-oil icons violated the naming pattern for multi-layer tintable sprites.
   Breaking Changes:
     - Removed `-icon` and `-technology` discriminators from icon and technology file names; for example, `pipe-to-ground-icon.png` is now simply `pipe-to-ground.png`.
+    - Numerous files have been renamed to conform to the naming conventions defined by Artisanal Reskins: Assets API
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2026-06-07
