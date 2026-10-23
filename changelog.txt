@@ -4,6 +4,7 @@ Date: ????
   Breaking Changes:
     - Removed `-icon` and `-technology` discriminators from icon and technology file names; for example, `pipe-to-ground-icon.png` is now simply `pipe-to-ground.png`.
     - Numerous files have been renamed to conform to the naming conventions defined by Artisanal Reskins: Assets API
+    - The electronics assembling machine decoratives designed for the classic assembling machine models have been moved to Artisanal Reskins: Assorted Assets.
 ---------------------------------------------------------------------------------------------------
 Version: 2.1.1
 Date: 2026-07-19
