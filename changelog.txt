@@ -1,7 +1,10 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.1
 Date: ????
+  Features:
+    - Added frozen sprites for the distillery.
   Changes:
+    - Revised pipe connection artwork in the distillery base layer.
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-11-01
