@@ -2,7 +2,7 @@
 Version: 2.2.1
 Date: ????
   Features:
-    - Added frozen sprites for the distillery.
+    - Added frozen sprites for the distillery and electric furnaces.
   Changes:
     - Revised pipe connection artwork in the distillery base layer.
 ---------------------------------------------------------------------------------------------------
