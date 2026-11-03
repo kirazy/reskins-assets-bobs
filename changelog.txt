@@ -5,6 +5,8 @@ Date: ????
     - Added frozen sprites for the distillery and electric furnaces.
   Changes:
     - Revised pipe connection artwork in the distillery base layer.
+  Bugfixes:
+    - Fixed pixel misalignment in stone furnace remnant rotations.
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-11-01
