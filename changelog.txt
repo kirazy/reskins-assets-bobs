@@ -3,6 +3,7 @@ Version: 2.2.1
 Date: ????
   Features:
     - Added frozen sprites for the distillery and electric furnaces.
+    - Added water reflection sprites for solar panels.
   Changes:
     - Revised pipe connection artwork in the distillery base layer.
   Bugfixes:
