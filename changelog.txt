@@ -3,6 +3,7 @@ Version: 2.3.0
 Date: ????
   Breaking Changes:
     - Renamed the burner generator and logistic zone interface icons to `graphics/icons/generator-burner.png` and `graphics/icons/robo-zone-interface.png`.
+    - Renamed the lights layers of the boiler and oil boiler technology icons to `graphics/technology/boiler/boiler-lights.png` and `graphics/technology/boiler-oil/boiler-oil-lights.png`.
   Features:
     - Added frozen sprites for the distillery, electric furnaces, and all-corners storage tank.
     - Added water reflection sprites for solar panels.
