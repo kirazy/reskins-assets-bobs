@@ -6,6 +6,7 @@ Date: ????
     - Renamed the lights layers of the boiler and oil boiler technology icons to `graphics/technology/boiler/boiler-lights.png` and `graphics/technology/boiler-oil/boiler-oil-lights.png`.
     - Moved the base layer of the area mining drill technology icon to `graphics/technology/mining-drill/mining-drill-area-base.png`, and renamed the base layer of the mining drill technology icon to `graphics/technology/mining-drill/mining-drill-standard-base.png`.
     - Moved the water pumpjack and nuclear power technology icons to Artisanal Reskins: Vanilla Assets.
+    - Renamed the light blue module intermediate icons to `graphics/icons/module-intermediates/light-blue/light-blue-{level}.png`, and the smoke stack of the small burner assembling machine icon to `graphics/icons/assembling-machine-burner-small/assembling-machine-burner-small-smoke-stack.png`.
   Features:
     - Added frozen sprites for the distillery, electric furnaces, and all-corners storage tank.
     - Added water reflection sprites for solar panels.
