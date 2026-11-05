@@ -8,6 +8,7 @@ Date: ????
     - Added frozen sprites for the distillery, electric furnaces, and all-corners storage tank.
     - Added water reflection sprites for solar panels.
     - Added fire sprites for the heat source.
+    - Added the technology icons of the air compressor and the alien research.
     - Added base layers for the logistic chest icons to `graphics/icons/chest-logistic`.
   Changes:
     - Revised pipe connection artwork in the distillery base layer.
