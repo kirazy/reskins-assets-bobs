@@ -7,6 +7,7 @@ Date: ????
     - Moved the base layer of the area mining drill technology icon to `graphics/technology/mining-drill/mining-drill-area-base.png`, and renamed the base layer of the mining drill technology icon to `graphics/technology/mining-drill/mining-drill-standard-base.png`.
     - Moved the water pumpjack and nuclear power technology icons to Artisanal Reskins: Vanilla Assets.
     - Renamed the light blue module intermediate icons to `graphics/icons/module-intermediates/light-blue/light-blue-{level}.png`, and the smoke stack of the small burner assembling machine icon to `graphics/icons/assembling-machine-burner-small/assembling-machine-burner-small-smoke-stack.png`.
+    - Renamed the pink alien artifact, small alien artifact, and alien science pack icons to `graphics/icons/alien-artifacts/alien-artifact-pink.png`, `graphics/icons/alien-artifacts-small/alien-artifact-small-pink.png`, and `graphics/icons/alien-science-packs/alien-science-pack-pink.png`.
   Features:
     - Added frozen sprites for the distillery, electric furnaces, and all-corners storage tank.
     - Added water reflection sprites for solar panels.
