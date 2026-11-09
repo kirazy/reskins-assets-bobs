@@ -13,6 +13,7 @@ Date: ????
     - Updated the robot tool icons using the revised mask process.
   Bugfixes:
     - Fixed pixel misalignment in stone furnace remnant rotations.
+    - Fixed that the fast/slow accumulator icons were swapped.
   Breaking Changes:
     - Renamed the burner generator and logistic zone interface icons to `graphics/icons/generator-burner.png` and `graphics/icons/robo-zone-interface.png`.
     - Renamed the lights layers of the boiler and oil boiler technology icons to `graphics/technology/boiler/boiler-lights.png` and `graphics/technology/boiler-oil/boiler-oil-lights.png`.
