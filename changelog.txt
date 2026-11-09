@@ -9,6 +9,7 @@ Date: ????
     - Added base layers for the logistic chest icons to `graphics/icons/chest-logistic`.
   Changes:
     - Revised pipe connection artwork in the distillery base layer.
+    - Updated the vehicle fission reactor equipment to use sprites matching the nuclear reactor appearance of vanilla; the original equipment sprites are available under `graphics/equipment/equipment-vehicle-fission-reactor-original`.
   Bugfixes:
     - Fixed pixel misalignment in stone furnace remnant rotations.
   Breaking Changes:
