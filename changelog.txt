@@ -10,6 +10,7 @@ Date: ????
   Changes:
     - Revised pipe connection artwork in the distillery base layer.
     - Updated the vehicle fission reactor equipment to use sprites matching the nuclear reactor appearance of vanilla; the original equipment sprites are available under `graphics/equipment/equipment-vehicle-fission-reactor-original`.
+    - Updated the robot tool icons using the revised mask process.
   Bugfixes:
     - Fixed pixel misalignment in stone furnace remnant rotations.
   Breaking Changes:
@@ -19,6 +20,7 @@ Date: ????
     - Moved the water pumpjack and nuclear power technology icons to Artisanal Reskins: Vanilla Assets.
     - Renamed the light blue module intermediate icons to `graphics/icons/module-intermediates/light-blue/light-blue-{level}.png`, and the smoke stack of the small burner assembling machine icon to `graphics/icons/assembling-machine-burner-small/assembling-machine-burner-small-smoke-stack.png`.
     - Renamed the pink alien artifact, small alien artifact, and alien science pack icons to `graphics/icons/alien-artifacts/alien-artifact-pink.png`, `graphics/icons/alien-artifacts-small/alien-artifact-small-pink.png`, and `graphics/icons/alien-science-packs/alien-science-pack-pink.png`.
+    - Renamed the `robot-tool` icon to `robot-tool-construction`.
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-11-01
