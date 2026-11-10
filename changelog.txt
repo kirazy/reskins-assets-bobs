@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.3.0
-Date: ????
+Date: 2026-11-09
   Features:
     - Added frozen sprites for the distillery, electric furnaces, and all-corners storage tank.
     - Added water reflection sprites for solar panels.
