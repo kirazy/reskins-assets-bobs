@@ -8,6 +8,6 @@
 	"homepage": "https://github.com/kirazy/reskins-assets-bobs",
 	"dependencies": [],
 	"package": {
-		"git_publish_branch": "dev2.1"
+		"git_publish_branch": "main"
 	}
 }
