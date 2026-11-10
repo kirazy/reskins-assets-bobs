@@ -23,6 +23,7 @@ Date: ????
     - Renamed the light blue module intermediate icons to `graphics/icons/module-intermediates/light-blue/light-blue-{level}.png`, and the smoke stack of the small burner assembling machine icon to `graphics/icons/assembling-machine-burner-small/assembling-machine-burner-small-smoke-stack.png`.
     - Renamed the pink alien artifact, small alien artifact, and alien science pack icons to `graphics/icons/alien-artifacts/alien-artifact-pink.png`, `graphics/icons/alien-artifacts-small/alien-artifact-small-pink.png`, and `graphics/icons/alien-science-packs/alien-science-pack-pink.png`.
     - Renamed the `robot-tool` icon to `robot-tool-logistics`.
+    - Renamed and reorganized the fuel cell icons under `graphics/icons/fuel-cells`.
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-11-01
